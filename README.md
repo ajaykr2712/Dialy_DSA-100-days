@@ -35,9 +35,13 @@ Books:
 📗 "Cracking the Coding Interview" by Gayle Laakmann McDowell
 
 Online Courses:
+ - 🖥️ <a href="https://www.coursera.org/specializations/data-structures-algorithms">Data Structures and Algorithms Specialization</a> on Coursera
+  - 📺 <a href="https://www.coursera.org/learn/algorithms-part1">Algorithms Part I and II</a> by Princeton University on Coursera
 
-🖥️ Data Structures and Algorithms Specialization on Coursera
-📺 Algorithms Part I and II by Princeton University on Coursera
+- **Websites:**
+  - 🌐 <a href="https://www.geeksforgeeks.org/">GeeksforGeeks</a>
+  - 🌐 <a href="https://leetcode.com/">LeetCode</a>
+  - 🌐 <a href="https://www.hackerrank.com/">HackerRank</a>
 
 
 ## 🔑 Important Concepts
