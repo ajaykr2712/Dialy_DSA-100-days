@@ -24,6 +24,12 @@
   - **Pointers**: Pointers store the address of variables. They are used for dynamic memory allocation and are crucial for efficient programming.
   - **Reference Pointers**: References are aliases for existing variables, making it easier to manipulate data.
   - **Functions**: Functions are blocks of code that perform specific tasks and can be reused throughout the program.
+## A Quick Illustartion on how Pointers are differed from References:
+![image](https://github.com/ajaykr2712/Dialy_DSA-100-days/assets/112938234/c0e3a836-6f7a-4c6b-ba35-886798474f0a)
+
+### Functionality of a Pointer:
+![image](https://github.com/ajaykr2712/Dialy_DSA-100-days/assets/112938234/9450943d-5117-49ed-9b00-0eb970d4a715)
+
 
 **Code Snippets:**
 ```cpp
