@@ -28,6 +28,9 @@
 - 📝 **Stack vs Heap Memory:**
   - Stack memory is used for static memory allocation, while heap memory is used for dynamic memory allocation.
   - Stack is faster but has less space, whereas heap is slower but more flexible with larger space.
+ #### A Close Functionality difference b/w Stack and a Heap
+   ![image](https://github.com/ajaykr2712/Dialy_DSA-100-days/assets/112938234/ea1b09a6-41bd-4311-b8ef-fa70ffe6027a)
+
 - 📝 **Physical vs Logical Data Structures:**
   - Physical data structures are the actual data storage structures like arrays and linked lists.
   - Logical data structures are the abstract forms like stacks, queues, trees, and graphs.
