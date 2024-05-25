@@ -24,6 +24,9 @@
   - Bucket Sort
        ## An Illustrative example on how T&S Complexity are being arranged for different sorting algorithms
     ![1_ipkeWQ_Lb0lbkhB8rigxTA](https://github.com/ajaykr2712/Dialy_DSA-100-days/assets/112938234/ce19276b-2783-4de6-81c0-7a843077779e)
+    
+## Types of Sorting Classifications
+![SortingTYPE](https://github.com/ajaykr2712/Dialy_DSA-100-days/assets/112938234/8166a397-c172-453c-965c-871ad25eb587)
 
 - 📌 Started to figure out the types of coding questions asked in interviews and competitive programming.
 - 📌 Curated a list of coding questions categorized by topic:
