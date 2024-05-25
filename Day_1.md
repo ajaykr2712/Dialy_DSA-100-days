@@ -33,8 +33,8 @@
   - Logical data structures are the abstract forms like stacks, queues, trees, and graphs.
 - 📝 **Abstract Data Types (ADTs):**
   - ADTs are a model for data types where a data type is defined by its behavior (semantics) rather than by its implementation.
-### How ADT's are being leveraged: 
-  ![Uploading image.png…]()
+####  How ADT's are being leveraged: 
+![image](https://github.com/ajaykr2712/Dialy_DSA-100-days/assets/112938234/3d3e5dd5-2ebd-4a26-b114-bbfe33b1add0)
 
 - 📝 **Time and Space Complexity:**
   - Time complexity measures the amount of time an algorithm takes to complete.
