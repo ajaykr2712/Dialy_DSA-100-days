@@ -2,9 +2,12 @@
 
 ## Daily Log
 
-### Day 4 - [Date]
+### Day 4 - 26-5-2024
 
-**Today's Focus:** A quick revision about the previous all days from 0 to 3, made sure I was good at all these topics
+**Today's Focus:** A quick revision about the previous days from 0 to 3, made sure I was good at all these topics
+
+    ![image](https://github.com/ajaykr2712/Dialy_DSA-100-days/assets/112938234/1d5cfedd-9a12-4cc3-9b08-64b016149361)
+
 
 **Resources Used:**
 - 📖 <a href="https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844">Introduction to Algorithms by Cormen, Leiserson, Rivest, and Stein</a>
