@@ -6,7 +6,7 @@
 
 **Today's Focus:** A quick revision about the previous days from 0 to 3, made sure I was good at all these topics
 
-    ![image](https://github.com/ajaykr2712/Dialy_DSA-100-days/assets/112938234/1d5cfedd-9a12-4cc3-9b08-64b016149361)
+![image](https://github.com/ajaykr2712/Dialy_DSA-100-days/assets/112938234/39f438e5-34cf-4bef-be7b-6dcaf85b609a)
 
 
 **Resources Used:**
