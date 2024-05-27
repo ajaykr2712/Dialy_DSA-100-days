@@ -11,6 +11,9 @@
 - 🌐 <a href="https://www.geeksforgeeks.org/array-data-structure/">GeeksforGeeks - Arrays</a>
 - 📺 <a href="https://www.coursera.org/learn/algorithms-part1">Algorithms Part I by Princeton University on Coursera</a>
 
+![image](https://github.com/ajaykr2712/Dialy_DSA-100-days/assets/112938234/96ab3bab-2f92-445d-85e0-495b30f94805)
+
+  
 **Activities:**
 - 📝 Studied the introduction and declaration of arrays.
 - 📝 Explored the differences between static and dynamic arrays.
