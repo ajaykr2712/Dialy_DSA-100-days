@@ -9,7 +9,8 @@
 **Resources Used:**
 - 📖 [LeetCode Problem-Solving Guide](https://leetcode.com/problemset/all/)
 - 🌐 [LeetCode Discuss](https://leetcode.com/discuss/)
-![Uploading image.png…]()
+![image](https://github.com/ajaykr2712/Dialy_DSA-100-days/assets/112938234/040355a1-92a6-4456-8c68-346bec5aabcf)
+
 
 **Activities:**
 - 📝 Documented the steps for solving a problem on LeetCode.
