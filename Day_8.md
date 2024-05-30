@@ -5,6 +5,12 @@
 ### Day 8 - May 24, 2024
 
 **Today's Focus:** Everything about Array ADTs and list of all searches
+## Illustrative Examples:
+![image](https://github.com/ajaykr2712/Dialy_DSA-100-days/assets/112938234/cbcea87f-a294-4210-a4c4-6f178d3837af)
+
+## The Legend: 
+![image](https://github.com/ajaykr2712/Dialy_DSA-100-days/assets/112938234/645190cc-46e8-4459-928d-7541a515e303)
+
 
 **Resources Used:**
 - 📖 <a href="https://www.youtube.com/playlist?list=PLl0KD3g-oDOGJUdmhFk19LaPgrfmAGQfo">YouTube Lectures by Abdul Bari</a>
