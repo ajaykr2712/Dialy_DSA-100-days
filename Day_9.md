@@ -11,8 +11,6 @@
 - 🌐 <a href="https://www.geeksforgeeks.org/array-data-structure/">GeeksforGeeks - Arrays</a>
 - 📺 <a href="https://www.youtube.com/watch?v=0JUN9aDxVmI">Arrays in Data Structures - YouTube</a>
 - 🖥️ <a href="https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/">Master the Coding Interview: Data Structures + Algorithms on Udemy</a>
-## Illustartion:
-![image](https://github.com/ajaykr2712/Dialy_DSA-100-days/assets/112938234/c523752f-2d82-488e-8501-c218967ecc4d)
 
 **Activities:**
 - 📝 Studied array basics, operations, and their time complexities.
