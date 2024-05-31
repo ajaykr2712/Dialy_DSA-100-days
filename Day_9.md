@@ -2,7 +2,7 @@
 
 ## Daily Log
 
-### Day 9 - May 25, 2024
+### Day 9 - May 31, 2024
 
 **Today's Focus:** All about Arrays
 
