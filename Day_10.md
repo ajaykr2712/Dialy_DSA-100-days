@@ -11,6 +11,7 @@
 - 🌐 <a href="https://www.coursera.org/learn/algorithms-part1">Coursera - Algorithms Part I</a>
 - 📘 <a href="https://www.geeksforgeeks.org/fundamentals-of-algorithms/">GeeksforGeeks - Fundamentals of Algorithms</a>
 - 🌐 <a href="https://leetcode.com/">LeetCode</a>
+ ![image](https://github.com/ajaykr2712/Dialy_DSA-100-days/assets/112938234/267eac61-7675-4b09-bdd1-1b4c4d6d2020)
 
 **Activities:**
 - 📝 Reviewed and recapped all topics covered so far:
