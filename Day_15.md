@@ -16,6 +16,8 @@
 - 📌 Practiced writing SQL queries to create, read, update, and delete records
   - 🔗 <a href="https://leetcode.com/problems/combine-two-tables/">Combine Two Tables</a>
   - 🔗 <a href="https://leetcode.com/problems/customers-who-never-order/">Customers Who Never Order</a>
+## A Basic Illustartion:
+![image](https://github.com/ajaykr2712/Dialy_DSA-100-days/assets/112938234/11e59cb9-2bc5-48af-a89f-80bead0c990b)
 
 **Detailed Notes:**
 - 📝 SQL Basics:
