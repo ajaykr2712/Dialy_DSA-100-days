@@ -10,6 +10,8 @@
 - 📖 <a href="https://www.amazon.com/Data-Warehouse-Toolkit-Definitive-Dimensional/dp/1118530802">The Data Warehouse Toolkit by Ralph Kimball</a>
 - 🌐 <a href="https://www.coursera.org/learn/advanced-data-modeling">Coursera - Advanced Data Modeling</a>
 - 🌐 <a href="https://www.geeksforgeeks.org/data-modeling-in-sql/">GeeksforGeeks - Data Modeling in SQL</a>
+## The Illustration:
+![image](https://github.com/ajaykr2712/Dialy_DSA-100-days/assets/112938234/4469df8d-6041-4231-8a0f-4bf97638b4f3)
 
 *Activities:*
 - 📝 Conducted extensive research on advanced data modeling techniques.
