@@ -2,7 +2,7 @@
 
 ## Daily Log
 
-### Day 17 - June 6, 2024
+### Day 18 - June 9, 2024
 
 *Today's Focus:* SQL types and more about unstructured datasets
 
