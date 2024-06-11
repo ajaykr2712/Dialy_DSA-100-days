@@ -9,7 +9,8 @@
 **Resources Used:**
 - 📖 <a href="https://www.w3schools.com/sql/">W3Schools - SQL Tutorial</a>
 - 🌐 <a href="https://www.geeksforgeeks.org/sql-tutorial/">GeeksforGeeks - SQL Tutorial</a>
-
+## Illustrations used: ![image](https://github.com/ajaykr2712/Dialy_DSA-100-days/assets/112938234/56ddafe5-8849-496f-95f6-d97ca736e0e2)
+ 
 **Activities:**
 - 📝 Worked on SQL databases, learning and practicing various queries.
 - 📌 Solved easy to medium level questions on LeetCode related to SQL and data manipulation:
