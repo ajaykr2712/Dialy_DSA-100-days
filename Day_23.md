@@ -5,6 +5,7 @@
 ### Day 23 - June 14, 2024
 
 **Today's Focus:** Did a big research on AI tools and GEN AI
+![image](https://github.com/ajaykr2712/Dialy_DSA-100-days/assets/112938234/4e340a78-50c8-4782-969e-87d434fe286d)
 
 **Resources Used:**
 - 📖 <a href="https://www.deeplearning.ai/short-courses/generative-ai-with-large-language-models/">Generative AI with Large Language Models by DeepLearning.AI</a>
