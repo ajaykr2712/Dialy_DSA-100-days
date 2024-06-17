@@ -5,6 +5,7 @@
 ### Day 25 - June 17, 2024
 
 **Today's Focus:** Participating in an AI Hackathon and focusing mostly on ML Algorithms
+![image](https://github.com/ajaykr2712/Dialy_DSA-100-days/assets/112938234/42f3ccc7-016d-43b7-a912-e8ea6c00055e)
 
 **Resources Used:**
 - 📖 <a href="https://www.deeplearningbook.org/">Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville</a>
