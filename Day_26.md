@@ -5,6 +5,7 @@
 ### Day 25 - June 17, 2024
 
 **Today's Focus:** AI Diagnostics using CNN for Hackathon
+![image](https://github.com/ajaykr2712/Dialy_DSA-100-days/assets/112938234/20d79955-35a4-42fd-87b9-2f01f28791a8)
 
 **Resources Used:**
 - 📖 [Deep Learning with Python by François Chollet](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438)
