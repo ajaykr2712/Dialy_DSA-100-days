@@ -2,7 +2,10 @@
 #### Day 28 - July 17, 2024
 
 **Today's Focus:** Introduction to Generative AI (GEN AI)
-![image](https://github.com/user-attachments/assets/a3927441-0adb-4ba7-b3ae-12c935f14085)
+
+
+![image](https://github.com/user-attachments/assets/10762330-f14c-4397-a126-82919caf2a16)
+
 
 **Resources Used:**
 - 📖 *Generative Deep Learning* by David Foster
